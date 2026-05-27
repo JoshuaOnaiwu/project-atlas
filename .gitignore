@@ -1,0 +1,19 @@
+# Go
+bin/
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
